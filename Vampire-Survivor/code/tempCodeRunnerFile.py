@@ -1,1 +1,1 @@
-target_position[0] - WINDOW_WIDTH/2
+for obj in map.get_layer_by_name('Objects'):
